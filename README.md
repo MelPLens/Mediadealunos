@@ -20,3 +20,4 @@ Neste repositório contém um algoritmo que tem o comando de calcular a média e
 
    Fim
    
+![Digite o número de alunos de cada sala](https://user-images.githubusercontent.com/99374140/173208255-98f02d0d-609f-47aa-996b-a778a03ba69f.jpg)
