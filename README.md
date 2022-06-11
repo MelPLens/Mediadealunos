@@ -19,4 +19,4 @@ Neste repositório contém um algoritmo que tem o comando de calcular a média e
      imprimir resultado
 
    Fim
-   Fim por fim
+   
